@@ -50,7 +50,7 @@ function removeItem(itemName) {
     }, 4000)
 
     if(itemIndex !== -1) {
-        items.splice(itemIndex, 1)More actions
+        items.splice(itemIndex, 1)
     }
 
     showItemsList()
